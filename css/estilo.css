@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding:0;	
+}
+footer{
+	padding-top: 40px;
+	padding-bottom: 30px;
+	background-color: black;
+}
+#quadrados{
+	padding-top: 10px;
+	background-color: grey;
+	background:rgba(1,1,1,0.2);
+	font-family: verdana;
+
+}
+.navbar{
+	background:rgba(1,1,1,0.2);
+}
+#logo{
+	max-width:140px;
+}
+header{
+	margin: 0;
+	padding-top: 140px;
+}
+#coluna_dois_do_rodape{
+	color: grey;
+}
+#coluna_dois_do_rodape a{
+	color: grey;
+}
+#menu_sistema{
+	background:rgba(1,1,1,0.2);
+}
+#menu a{
+	color: white;
+}
+#menu a:hover{
+	background-color: red;
+}
+#menu{
+	z-index:9999;
+	width: 100%;
+}
+.content{
+	width: 300px;
+	min-height: 170px;    
+	margin-right: 20px;
+	margin-left: 20px;
+}
+#login-recuperasenha{
+	width: 300px;
+}
+.bordas{
+	position: fixed;
+	border:solid 1px;
+    border-radius:20px;
+    box-shadow: 1px 1px 2px 1px red;
+    margin-right: center;
+    margin-left: 1000px;
+    margin-top: 200px
+}
+.btn{
+	color: white;
+	background-color: #E5312D;
+}
+a:link {
+   color: white;
+}
+a:visited {
+    color: white;
+}
+body{
+	margin-left:0px;
+	margin-right:0px;
+}

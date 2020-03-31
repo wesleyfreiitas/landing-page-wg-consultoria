@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg1169"
+   sodipodi:docname="WG pequeno.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs1163">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1026"
+       id="linearGradient1028"
+       x1="-135.43022"
+       y1="236.9875"
+       x2="-50.846169"
+       y2="236.9875"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1026">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop1022" />
+      <stop
+         style="stop-color:#999999;stop-opacity:0;"
+         offset="1"
+         id="stop1024" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1026"
+       id="linearGradient1812"
+       gradientUnits="userSpaceOnUse"
+       x1="-135.43022"
+       y1="236.9875"
+       x2="-50.846169"
+       y2="236.9875" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="529.64146"
+     inkscape:cy="460.42228"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1166">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-149)">
+    <g
+       transform="translate(268.47318,-29.539308)"
+       id="g1072">
+      <g
+         transform="matrix(1.0858187,0,0,1.0480394,-23.007478,-11.66822)"
+         style="fill:url(#linearGradient1028);fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="g946">
+        <ellipse
+           style="fill:url(#linearGradient1812);fill-opacity:1;stroke:none;stroke-width:3.10351014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path891"
+           cx="-93.138191"
+           cy="236.9875"
+           rx="40.740269"
+           ry="41.307232" />
+      </g>
+      <text
+         transform="matrix(-0.96173204,-0.31153523,-0.32006123,0.93611278,0,0)"
+         id="text855"
+         y="306.92041"
+         x="-6.889215"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:110.88780212px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.57930207;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:110.88780212px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.57930207;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="306.92041"
+           x="-6.889215"
+           id="tspan853"
+           sodipodi:role="line">G</tspan></text>
+      <text
+         transform="scale(0.99228712,1.0077728)"
+         id="text851"
+         y="276.51324"
+         x="-259.07184"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:114.64754486px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e5322d;fill-opacity:1;stroke:#e5322d;stroke-width:3.12854147;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:114.64754486px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e5322d;fill-opacity:1;stroke:#e5322d;stroke-width:3.12854147;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="276.51324"
+           x="-259.07184"
+           id="tspan849"
+           sodipodi:role="line">W</tspan></text>
+      <text
+         transform="scale(0.94282219,1.0606454)"
+         id="text1034"
+         y="281.87631"
+         x="-252.80472"
+         style="font-style:normal;font-weight:normal;font-size:19.75087166px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30860737;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30860737;stroke-opacity:1"
+           y="281.87631"
+           x="-252.80472"
+           id="tspan1032"
+           sodipodi:role="line">CONSULTORIA</tspan></text>
+      <text
+         id="text1046"
+         y="310.9472"
+         x="-235.82704"
+         style="font-style:normal;font-weight:normal;font-size:12.98277187px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20285581"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.20285581"
+           y="310.9472"
+           x="-235.82704"
+           id="tspan1044"
+           sodipodi:role="line">automação e serviços</tspan></text>
+    </g>
+  </g>
+</svg>
