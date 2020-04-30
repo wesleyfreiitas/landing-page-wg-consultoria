@@ -1,20 +1,30 @@
 /** Landing page */
 body{
-	background-color: gray;
+	text-decoration: none;
+
 }
 footer{
 	padding-top: 40px;
 	background-color: black;
 	padding-bottom: 30px;
 }
-header{
-	
+body a:link{
+	color: white;
 }
-a:link {
+#icones{
+	color: red;
+}
+#coluna_dois_do_rodape a:link {
    color: white;
 }
-a:visited {
+#coluna_dois_do_rodape a:visited {
     color: white;
+}
+#fale_conosco a:link{
+	color: black;
+}
+#fale_conosco a:visited{
+	color: black;
 }
 #logo{
     max-width:140px;
@@ -43,6 +53,7 @@ a:visited {
     color: grey;
 }
 #coluna_dois_do_rodape a{
+	text-decoration: none;
     color: grey;
 }
 #missao_visao_valores{
@@ -51,6 +62,9 @@ a:visited {
     background-color: grey;
     background:rgba(1,1,1,0.2);
     font-family: verdana;
+}
+#fale_conosco a{
+	text-decoration: none;
 }
 #fale_conosco{
   	margin-left: -3px;
@@ -65,6 +79,13 @@ a:visited {
 	min-height: 170px;    
 	margin-right: 20px;
 	margin-left: 20px;
+}
+.content a:link{
+	text-decoration: none;
+	color: black;
+}
+.content a:visited{
+	color: black;
 }
 #login-recuperasenha{
 	width: 300px;
