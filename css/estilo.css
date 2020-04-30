@@ -1,48 +1,65 @@
-*{
-	margin: 0;
-	padding:0;	
+/** Landing page */
+body{
+	background-color: gray;
 }
 footer{
 	padding-top: 40px;
-	padding-bottom: 30px;
 	background-color: black;
-}
-#quadrados{
-	padding-top: 10px;
-	background-color: grey;
-	background:rgba(1,1,1,0.2);
-	font-family: verdana;
-
-}
-.navbar{
-	background:rgba(1,1,1,0.2);
-}
-#logo{
-	max-width:140px;
+	padding-bottom: 30px;
 }
 header{
-	margin: 0;
-	padding-top: 140px;
+	
 }
-#coluna_dois_do_rodape{
-	color: grey;
+a:link {
+   color: white;
 }
-#coluna_dois_do_rodape a{
-	color: grey;
+a:visited {
+    color: white;
 }
-#menu_sistema{
-	background:rgba(1,1,1,0.2);
+#logo{
+    max-width:140px;
+}
+.navbar{
+    background:rgba(1,1,1,0.2);
 }
 #menu a{
-	color: white;
+    color: white;
 }
 #menu a:hover{
-	background-color: red;
+    background-color: red;
 }
-#menu{
-	z-index:9999;
-	width: 100%;
+#menu_sistema{
+    background:rgba(1,1,1,0.2);
 }
+#carrocel{
+	justify-content: center;
+    overflow: hidden;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-right: 10px;
+
+}
+#coluna_dois_do_rodape{
+    color: grey;
+}
+#coluna_dois_do_rodape a{
+    color: grey;
+}
+#missao_visao_valores{
+	margin-left: -3px;
+    padding-top: 10px;
+    background-color: grey;
+    background:rgba(1,1,1,0.2);
+    font-family: verdana;
+}
+#fale_conosco{
+  	margin-left: -3px;
+    padding-top: 10px;
+    background-color: grey;
+    background:rgba(1,1,1,0.2);
+    font-family: verdana;
+}
+/** Área restrita */
 .content{
 	width: 300px;
 	min-height: 170px;    
@@ -52,26 +69,23 @@ header{
 #login-recuperasenha{
 	width: 300px;
 }
-.bordas{
-	position: fixed;
+#elemento{
 	border:solid 1px;
-    border-radius:20px;
-    box-shadow: 1px 1px 2px 1px red;
-    margin-right: center;
-    margin-left: 1000px;
-    margin-top: 200px
+	border-radius: 20px;
+	box-shadow: 1px 1px 2px 1px black;
+	width: 350px;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 140px;
+    padding-left: 5px;
 }
-.btn{
-	color: white;
-	background-color: #E5312D;
-}
-a:link {
-   color: white;
-}
-a:visited {
-    color: white;
-}
-body{
-	margin-left:0px;
-	margin-right:0px;
+#recuperarsenha{
+	border:solid 1px;
+	border-radius: 20px;
+	box-shadow: 1px 1px 2px 1px black;
+	width: 350px;
+    height: 440px;
+    overflow: hidden;
+    margin-top: 140px;
+    padding-left: 5px;
 }
