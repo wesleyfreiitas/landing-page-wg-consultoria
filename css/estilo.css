@@ -3,7 +3,7 @@ body{
 	text-decoration: none;
 
 }
-footer{
+#footer{
 	padding-top: 40px;
 	background-color: black;
 	padding-bottom: 30px;
@@ -29,10 +29,11 @@ body a:link{
 #logo{
     max-width:140px;
 }
-.navbar{
+#navbar{
     background:rgba(1,1,1,0.2);
 }
 #menu a{
+    text-decoration: none;
     color: white;
 }
 #menu a:hover{
@@ -95,7 +96,7 @@ body a:link{
 	border-radius: 20px;
 	box-shadow: 1px 1px 2px 1px black;
 	width: 350px;
-    height: 400px;
+    height: 460px;
     overflow: hidden;
     margin-top: 140px;
     padding-left: 5px;
